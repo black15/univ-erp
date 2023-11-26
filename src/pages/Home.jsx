@@ -7,7 +7,7 @@ function Home() {
    return (
       <>
          <Navbar />
-         <section className='container mx-auto flex flex-col items-center justify-center'>
+         <section className='container mx-auto flex flex-col items-center justify-center mt-12'>
             <div className="flex flex-col items-center justify-center space-y-3 my-12">
                <h1 className="text-gray-900 text-4xl">Web ERP</h1>
                <div className="text-gray-900 text-lg">Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, et.</div>
